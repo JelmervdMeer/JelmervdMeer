@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JelmervdMeer
-- 👀 I’m interested in programming, technologies, woman
+- 👀 I’m interested in programming, technologies, frontend development
 - 🌱 I’m currently learning Python, Java, HTML, CSS, Javascript, PHP
 - 💞️ I’m looking to collaborate on making a game
 - 📫 How to reach me: jelmervandermeer02@gmail.com
